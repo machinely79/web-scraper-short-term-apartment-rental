@@ -14,3 +14,5 @@ This project is a web scraper built with ```Selenium``` and ```undetected-chrome
 
   ```git clone https://github.com/your-username/olx-scraper.git```
   ```cd olx-scraper```
+
+
