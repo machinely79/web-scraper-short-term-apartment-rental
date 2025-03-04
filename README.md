@@ -8,4 +8,9 @@ This project is a web scraper built with ```Selenium``` and ```undetected-chrome
 - Avoids duplicate listings by checking already saved links.
 - Extracts key rental information, including title, price, description, and additional details.
 - Implements scrolling and retry mechanisms to improve data collection.
-- Saves data in CSV format, making it easy for further analysis.
+- Saves data in CSV format.
+
+  ## Installation
+
+  ```git clone https://github.com/your-username/olx-scraper.git```
+  ```cd olx-scraper```
