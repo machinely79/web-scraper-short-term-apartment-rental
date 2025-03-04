@@ -10,9 +10,13 @@ This project is a web scraper built with ```Selenium``` and ```undetected-chrome
 - Implements scrolling and retry mechanisms to improve data collection.
 - Saves data in CSV format.
 
-  ## Installation
+## Installation
 
-  ```git clone https://github.com/your-username/olx-scraper.git```
-  ```cd olx-scraper```
+*** 1. Clone the repository: ***
+  ```
+  git clone https://github.com/machinely79/web-scraper-short-term-apartment-rentals.git
+  cd web-scraper-short-term-apartment-rentals
+  ```
 
+*** 2. Create a virtual environment (optional): ***
 
